@@ -1,0 +1,5 @@
+DATA RESOLUSI
+- Konsisten untuk belajar Python minimal 1 jam setiap hari
+- Konsisten untuk belajar Data Analysis minimal 1 jam setiap hari
+- Konsisten belajar Bahasa Inggris minimal 1 jam setiap hari
+- Membaca buku minimal 1 jam setiap hari
